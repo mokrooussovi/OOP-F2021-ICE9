@@ -10,8 +10,6 @@
 
 package ca.durhamcollege;
 
-import java.util.Vector;
-
 public class Vector2D
 {
     // PRIVATE INSTANCE VARIABLES
