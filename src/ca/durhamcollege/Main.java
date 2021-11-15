@@ -8,6 +8,7 @@
 
 package ca.durhamcollege;
 
+// driver class Entry point for my
 public class Main {
 
     public static void main(String[] args)
